@@ -8,6 +8,8 @@ To control the player's movements use the LEFT and RIGHT keys.
 
 Good like, folks! ;D
 
+<img width="297" alt="img1" src="https://user-images.githubusercontent.com/64708812/233789710-5ae832b2-f7c0-4596-86e4-6bb6417c168f.png">
+<img width="299" alt="img2" src="https://user-images.githubusercontent.com/64708812/233789691-7e5534a1-9942-4856-a6d8-61203d1d8b1d.png">
 
 
 Credits for assets used:
